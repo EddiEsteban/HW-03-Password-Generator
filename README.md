@@ -1,3 +1,5 @@
+Github Pages link: https://eddiesteban.github.io/HW-03-Password-Generator/
+
 This password generator creates a random string of characters (based on a specified pool of character categories), given a list of parameters specified by the user upon selecting the button. These parameters include the following:
 * character length
 * character category
